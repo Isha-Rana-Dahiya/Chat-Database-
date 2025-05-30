@@ -33,6 +33,6 @@ File : Dataset1.xlsx
 Columns:
 source_unique_id : Unique identifier
 category : product category
-sale_price : proce in USD
+sale_price : price in USD
 available : stock status
 description : short product description 
