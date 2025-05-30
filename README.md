@@ -1,4 +1,4 @@
-# Chat-Database-
+# Chat-Database
 AI-Powered E-Commerce Search with Azure AI
 # 🚀 AI-Powered E-Commerce Search with Azure AI
 
